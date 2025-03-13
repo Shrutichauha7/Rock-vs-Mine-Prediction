@@ -1,5 +1,4 @@
 # Rock-vs-Mine-Prediction
-# Rock vs Mine Prediction
 
 ## Overview
 This project involves building a machine learning model to classify sonar signals as either rocks or mines. The dataset used contains sonar readings from underwater sources, and the goal is to develop an accurate classifier for differentiating between these two classes.
